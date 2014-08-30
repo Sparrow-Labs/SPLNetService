@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "SPLNetService"
-  s.version          = "0.1.1"
+  s.version          = "0.1.2"
   s.summary          = "Temporary API compatible reimplementation of NSNetService."
   s.homepage         = "https://github.com/Sparrow-Labs/SPLNetService"
   s.license          = 'MIT'
