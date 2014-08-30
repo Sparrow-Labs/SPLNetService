@@ -1,7 +1,5 @@
 
 target 'SPLNetService', :exclusive => true do
   pod "SPLNetService", :path => "../"
-
-  pod 'Specta', '~> 0.2.1'
   pod 'Expecta'
 end

@@ -1,7 +1,7 @@
 PODS:
   - Expecta (0.3.1)
   - Specta (0.2.1)
-  - SPLNetService (0.1.0)
+  - SPLNetService (0.1.1)
 
 DEPENDENCIES:
   - Expecta
@@ -15,6 +15,6 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
   Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
-  SPLNetService: f53a1cf60e9ca726c67faedc1eebd76fc7f76590
+  SPLNetService: d13fe009ee3a62b891956bd0427bb541decd37f0
 
 COCOAPODS: 0.33.1
